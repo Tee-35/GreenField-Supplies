@@ -11,9 +11,9 @@ Recommendations are provided on the following key areas
 
 The Excel file used to inspect clean and analyse the data is here. 
 
-SQL queries used to export necessary tables you can find [here](SQL). 
+SQL queries used to export necessary tables you can find [here](SQL/SQLQueries.sql).
 
-## Data Structure and Initial Check 
+## Data Structure and Initial Check
 
 The database structure as seen below consist of three tables: shipments, products and suppliers.  
 
