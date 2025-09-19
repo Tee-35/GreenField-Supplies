@@ -9,8 +9,6 @@ Recommendations are provided on the following key areas
 •  **Stock Levels & Reorder Points:** An analysis of current stock levels and reorder efficiency.  
 •  **OTIF (On-Time In-Full):** An evaluation of supplier delivery reliability, with comparisons across the products they provide.  
 
-All the charts that convey all this information can be found here.
-
 The Excel file used to inspect clean and analyse the data is here. 
 
 SQL queries used to export necessary tables you can find here. 
@@ -27,3 +25,10 @@ The database structure as seen below consist of three tables: shipments, product
 
 #### Overview of Findings 
 
+**GreenField Supplies** experienced uneven operational performance over the past year. AsiaPlast accounted for 20% of shipping costs with a March 2025 spike, European lead times averaged 27 days, and Feed Buckets/Tubs saw 17.5% of orders below reorder points, with AsiaPlast performing worst at 18.3%. UK Tools’ OTIF averaged just under 72%, dipping sharply in May 2025. These findings highlight cost, supply, and reliability risks that warrant targeted sourcing and process improvements. 
+
+All the charts that convey all this information can be found here.  
+
+<img width="3941" height="1801" alt="Picture 1a" src="https://github.com/user-attachments/assets/5b1e0941-fa18-4f04-bc74-962c2499e45b" />
+
+<img width="3941" height="1801" alt="Picture 1a" src="https://github.com/user-attachments/assets/a881e9ad-59a1-4320-8e1d-c1a84f0ee403" />
