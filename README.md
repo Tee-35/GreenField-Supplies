@@ -27,7 +27,7 @@ The database structure as seen below consist of three tables: shipments, product
 
 **GreenField Supplies** experienced uneven operational performance over the past year. AsiaPlast accounted for 20% of shipping   costs with a March 2025 spike, European lead times averaged 27 days, and Feed Buckets/Tubs saw 17.5% of orders below reorder points, with AsiaPlast   performing worst at 18.3%. UK Tools’ OTIF averaged just under 72%, dipping sharply in May 2025. These findings highlight cost, supply, and   reliability risks that warrant targeted sourcing and process improvements. 
 
-All the charts that convey all this information can be found [here].(Images)
+All the charts that convey all this information can be found [here](Images).
 
 
 <img width="3941" height="1801" alt="Picture 1a" src="https://github.com/user-attachments/assets/5b1e0941-fa18-4f04-bc74-962c2499e45b" />
