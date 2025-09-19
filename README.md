@@ -11,7 +11,7 @@ Recommendations are provided on the following key areas
 
 The Excel file used to inspect clean and analyse the data is here. 
 
-SQL queries used to export necessary tables you can find [here](SQL/SQLQueries.sql).
+SQL queries used to export necessary tables you can find [here](SQL/SQL Queries.sql).
 
 ## Data Structure and Initial Check
 
