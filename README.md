@@ -9,7 +9,7 @@ Recommendations are provided on the following key areas
 •  **Stock Levels & Reorder Points:** An analysis of current stock levels and reorder efficiency.  
 •  **OTIF (On-Time In-Full):** An evaluation of supplier delivery reliability, with comparisons across the products they provide.  
 
-The Excel file used to inspect clean and analyse the data is here. 
+The Excel file used to inspect clean and analyse the data is [here](Excel/Issue_log.png). 
 
 SQL queries used to export necessary tables you can find [here](SQL/SQL_Queries.sql).
 
