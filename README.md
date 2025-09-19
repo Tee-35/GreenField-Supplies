@@ -1,6 +1,6 @@
 ## Project Background
 
-GreenField Supplies is a wholesaler specialises in buying and selling outdoor products for equestrian, farming, and general outdoor purposes. Over the past year, the company has experienced fluctuating shipping costs, lead times, and stock performance, and in an effort to better understand customer demand and predict future trends, they commissioned a review of overall operational performance.
+GreenField Supplies is a wholesaler specialising in buying and selling outdoor products for equestrian, farming, and general outdoor purposes. Over the past year, the company has experienced fluctuating shipping costs, lead times, and stock performance, and in an effort to better understand customer demand and predict future trends, they commissioned a review of overall operational performance.
 
 Recommendations are provided on the following key areas
 
