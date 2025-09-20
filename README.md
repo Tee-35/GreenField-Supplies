@@ -34,6 +34,10 @@ All the charts that convey all this information can be found [here](Images).
 
 #### Insight Deep Dive - Stock Levels & Reorder Points 
 
+<img width="720" height="405" alt="Slide1" src="https://github.com/user-attachments/assets/3a16ba63-83ce-4b33-9116-b1b077ffa034" />
+
+
+
 
 
 
