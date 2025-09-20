@@ -50,7 +50,7 @@ The line graph showing the stockout performance of **AsiaPlast and Euromat** ove
 
 • **Lead Times:** It would be beneficial to **identify the European products with the longest lead times** and investigate whether the same products are available from suppliers in other regions. If so, purchasing from those alternative suppliers could reduce lead times and improve stock availability.
 
-• **Stock Levels & Reorder Points:** 
+• **Stock Levels & Reorder Points:** Review sales trends with seasonal demand in mind and adjust reorder points dynamically to maintain sufficient buffer stock during peak months. Prioritise suppliers with shorter lead times to minimise stockouts, while also investigating whether recurring shortages stem from supplier capacity constraints.
 
 • **OTIF (On-Time In-Full):** To improve overall reliability, root cause analysis should be conducted to understand the drivers behind UK Tools’ OTIF fluctuations.
 
