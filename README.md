@@ -39,10 +39,6 @@ This product is sourced from three suppliers (See bar chart):
 •	**BarnWare**: 16.4% stockouts (The average across all products).
 •	**EuroMat**: 17.7% stockouts.
 The line graph showing the stockout performance of **AsiaPlast and Euromat** over six months. The highest percentage of stockouts happened in March for both suppliers **20% and 28.6%** for **AsiaPlast and Euromat respectively**. **EuroMat** consistently **had higher stockouts** than **AsiaPlast** across most months, though both suppliers dropped back closer to the **average after March**. Notably, **AsiaPlast** maintained a lower overall stockout rate across the six months, indicating more stable performance.
-<img width="468" height="235" alt="image" src="https://github.com/user-attachments/assets/fb4342ea-fe70-4c86-810d-002be03a6c04" />
-
-
-
 
 <img width="937" height="529" alt="Screenshot 2025-09-20 at 20 19 02" src="https://github.com/user-attachments/assets/775d38c2-aad5-49cc-bee0-a40f6fd70c30" />  
  
@@ -50,10 +46,11 @@ The line graph showing the stockout performance of **AsiaPlast and Euromat** ove
 
 ## Recommendations 
 
-• **Inbound Shipments:**
+• **Inbound Shipments:** It would be valuable to **analyse the high shipping costs in more detail**, identifying which products contribute most to these expenses and understanding why they are being purchased from AsiaPlast. Based on this analysis, a potential strategy could be to **source these products from alternative suppliers** where feasible, in order to optimize shipping costs.
 
-• **Lead Times:** 
+• **Lead Times:** It would be beneficial to **identify the European products with the longest lead times** and investigate whether the same products are available from suppliers in other regions. If so, purchasing from those alternative suppliers could reduce lead times and improve stock availability.
 
 • **Stock Levels & Reorder Points:** 
 
-• **OTIF (On-Time In-Full):** 
+• **OTIF (On-Time In-Full):** To improve overall reliability, root cause analysis should be conducted to understand the drivers behind UK Tools’ OTIF fluctuations.
+
