@@ -30,4 +30,9 @@ The database structure as seen below consist of three tables: shipments, product
 All the charts that convey all this information can be found [here](Images).
 
 
-<img width="3941" height="1801" alt="Picture 1a" src="https://github.com/user-attachments/assets/5b1e0941-fa18-4f04-bc74-962c2499e45b" />
+<img width="3941" height="1801" alt="Picture 1a" src="https://github.com/user-attachments/assets/5b1e0941-fa18-4f04-bc74-962c2499e45b" />  
+
+#### Insight Deep Dive - 
+
+
+## Recommendations  
