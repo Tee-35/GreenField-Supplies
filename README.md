@@ -36,7 +36,10 @@ All the charts that convey all this information can be found [here](Images).
 
 
 
-<img width="937" height="530" alt="Screenshot 2025-09-20 at 19 27 49" src="https://github.com/user-attachments/assets/81ee7b23-c208-418f-b771-5d16e035a11e" />  
+
+<img width="937" height="529" alt="Screenshot 2025-09-20 at 20 19 02" src="https://github.com/user-attachments/assets/775d38c2-aad5-49cc-bee0-a40f6fd70c30" />  
+ 
+  
 
 ## Recommendations 
 
