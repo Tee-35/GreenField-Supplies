@@ -33,8 +33,8 @@ All the charts that convey all this information can be found [here](Images).
 
 #### Stock Levels & Reorder Points 
 
-Feed Buckets / Feed Tubs have the worst performance, with **17.5% of all orders falling  below the designated reorder point**, compared to an average of **16.3% across all products.**
-This product is sourced from three suppliers (See bar chart): 
+Feed Buckets / Feed Tubs have the worst performance, with **17.5% of all orders falling  below the designated reorder point**, compared to an average of **16.3% across all products.**  
+This product is sourced from three suppliers (See bar chart):   
 •	**AsiaPlast**: 18.3% stockouts.  
 •	**BarnWare**: 16.4% stockouts (The average across all products).  
 •	**EuroMat**: 17.7% stockouts.  
