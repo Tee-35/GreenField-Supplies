@@ -31,14 +31,12 @@ All the charts that convey all this information can be found [here](Images).
 
 <img width="755" height="542" alt="Collage" src="https://github.com/user-attachments/assets/5af2c383-5811-4a9b-b30e-138a81c7a06d" />
 
-#### Insight Deep Dive - Stock Levels & Reorder Points 
-
-<img width="720" height="405" alt="Slide1" src="https://github.com/user-attachments/assets/3a16ba63-83ce-4b33-9116-b1b077ffa034" />
+#### Stock Levels & Reorder Points 
 
 
 
 
-
+<img width="937" height="530" alt="Screenshot 2025-09-20 at 19 27 49" src="https://github.com/user-attachments/assets/81ee7b23-c208-418f-b771-5d16e035a11e" />  
 
 ## Recommendations 
 
