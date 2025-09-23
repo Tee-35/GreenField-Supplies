@@ -17,8 +17,8 @@ SQL queries used to export necessary tables you can find [here](SQL/SQL_Queries.
 
 The database structure as seen below consist of three tables: shipments, products and suppliers.  
 
+[ERD Diagram.pptx](https://github.com/user-attachments/files/22493095/ERD.Diagram.pptx)  
 
-<img width="3295" height="1796" alt="ERD Diagram" src="https://github.com/user-attachments/assets/59c2e413-f001-4147-b0a4-37b24cb8a0d1" />  
 
 
 ## Executive Summary  
