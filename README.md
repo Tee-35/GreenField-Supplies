@@ -27,7 +27,11 @@ The database structure as seen below consist of three tables: shipments, product
 
 All the charts that convey all this information can be found [here](Images).
 
+<img width="435" height="305" alt="ERD  Shipments" src="https://github.com/user-attachments/assets/51692b5f-1ed4-4e6b-98fc-e6eb0536abea" />  
+
 <img width="755" height="542" alt="Collage" src="https://github.com/user-attachments/assets/5af2c383-5811-4a9b-b30e-138a81c7a06d" />
+
+
 
 #### Stock Levels & Reorder Points 
 
