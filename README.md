@@ -13,11 +13,11 @@ The Excel file used to inspect clean and analyse the data is [here](Excel/Issue_
 
 SQL queries used to export necessary tables you can find [here](SQL/SQL_Queries.sql).
 
-## Data Structure and Initial Check
-
-The database structure as seen below consist of three tables: shipments, products and suppliers.  
+## ERD, Data Structure and Initial Check
 
 <img width="435" height="305" alt="ERD  Shipments" src="https://github.com/user-attachments/assets/51692b5f-1ed4-4e6b-98fc-e6eb0536abea" />  
+
+The database structure as seen below consist of three tables: shipments, products and suppliers.  
 
 <img width="768" height="467" alt="Screenshot 2025-09-23 at 12 51 13" src="https://github.com/user-attachments/assets/4aa92dc1-25d6-4097-896e-1bb818a9db66" />  
 
