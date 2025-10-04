@@ -15,11 +15,11 @@ SQL queries used to export necessary tables you can find [here](SQL/SQL_Queries.
 
 ## ERD, Data Structure and Initial Check
 
-<img width="491" height="471" alt="ERD Shipment " src="https://github.com/user-attachments/assets/af5cc9d5-f73c-4450-a427-b02779e45299" />  
+<img width="500" height="480" alt="Screenshot 2025-10-04 at 10 34 48" src="https://github.com/user-attachments/assets/b3997689-f0c1-4868-97da-a94ba8453aa1" />  
 
-The database structure as seen below consist of three tables: Inventory, products, shipments, shipment_detail and suppliers.  
+The database structure as seen below consist of three tables: Inventory, products, shipments, shipment_details and suppliers.  
 
- <img width="912" height="258" alt="Screenshot 2025-10-04 at 10 20 22" src="https://github.com/user-attachments/assets/cb7fdbfc-fc7e-43c5-8acd-f4b40e586e5e" />  
+<img width="919" height="251" alt="Screenshot 2025-10-04 at 10 35 56" src="https://github.com/user-attachments/assets/cc7854f4-61ff-4d67-b58d-e1eeee7eee07" />  
 
 
 ## Executive Summary  
