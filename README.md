@@ -17,9 +17,11 @@ SQL queries used to export necessary tables you can find [here](SQL/SQL_Queries.
 
 The database structure as seen below consist of five tables: Inventory, products, shipments, shipment_details and suppliers.  
 
-<img width="500" height="480" alt="Screenshot 2025-10-04 at 10 34 48" src="https://github.com/user-attachments/assets/b3997689-f0c1-4868-97da-a94ba8453aa1" />  
+<img width="500" height="480" alt="Screenshot 2025-10-04 at 10 34 48" src="https://github.com/user-attachments/assets/b3997689-f0c1-4868-97da-a94ba8453aa1" />   
 
-<img width="919" height="251" alt="Screenshot 2025-10-04 at 10 35 56" src="https://github.com/user-attachments/assets/cc7854f4-61ff-4d67-b58d-e1eeee7eee07" />  
+
+<img width="919" height="251" alt="Screenshot 2025-10-04 at 10 38 33" src="https://github.com/user-attachments/assets/d95283a5-0c33-42e7-a9aa-f6ef9ffd7c65" />  
+
 
 
 ## Executive Summary  
