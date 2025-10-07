@@ -23,7 +23,6 @@ The database structure as seen below consist of five tables: Inventory, products
 <img width="919" height="251" alt="Screenshot 2025-10-04 at 10 38 33" src="https://github.com/user-attachments/assets/d95283a5-0c33-42e7-a9aa-f6ef9ffd7c65" />  
 
 
-
 ## Executive Summary  
 
 #### Overview of Findings 
@@ -32,10 +31,7 @@ The database structure as seen below consist of five tables: Inventory, products
 
 All the charts that convey all this information can be found [here](Images).  
 
-<img width="1661" height="920" alt="Screenshot 2025-10-07 at 18 06 27" src="https://github.com/user-attachments/assets/1f974aaf-8849-43bb-8ac1-c600b5f8e16c" /> 
-
-
-<img width="755" height="542" alt="Collage" src="https://github.com/user-attachments/assets/5af2c383-5811-4a9b-b30e-138a81c7a06d" />
+<img width="1661" height="920" alt="Screenshot 2025-10-07 at 18 06 27" src="https://github.com/user-attachments/assets/1f974aaf-8849-43bb-8ac1-c600b5f8e16c" />  
 
 #### Stock Levels & Reorder Points 
 
