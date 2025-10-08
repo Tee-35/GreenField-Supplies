@@ -27,23 +27,14 @@ The database structure as seen below consist of five tables: Inventory, products
 
 #### Overview of Findings 
 
-**GreenField Supplies** experienced uneven operational performance over the past year. AsiaPlast accounted for 20% of shipping   costs with a March 2025 spike, European lead times averaged 27 days, and Feed Buckets/Tubs saw 17.5% of orders below reorder points, with AsiaPlast   performing worst at 18.3%. UK Tools’ OTIF averaged just under 72%, dipping sharply in May 2025. These findings highlight cost, supply, and   reliability risks that warrant targeted sourcing and process improvements. 
-
-All the charts that convey all this information can be found [here](Images).  
+**GreenField Supplies** The dashboard provides an overview of supplier performance, delivery reliability, and inventory status. Average lead times range from 7 to 27 days, with EuroMat performing best and UKTools and AsiaPlast showing longer delays, suggesting transport inefficiencies. On-time, in-full (OTIF) delivery rates average around 72–76%, indicating moderate reliability but room for improvement. Around 22% of shipments are delayed, typically by 1–2 days, while shipment costs remain stable at roughly £46K–£47K per shipment across suppliers. A total of 9,501 shipments cost £439.89 million overall. Additionally, seven key products are below their reorder levels, signaling the need for prompt restocking to avoid stock shortages.
 
 <img width="1317" height="736" alt="Screenshot 2025-10-08 at 15 38 04" src="https://github.com/user-attachments/assets/07fc2047-6f62-4452-9abe-2e4adc4161c7" />
 
 
-#### Stock Levels & Reorder Points 
+All the charts that convey all this information can be found [here](Images).  
 
-Feed Buckets / Feed Tubs have the worst performance, with **17.5% of all orders falling  below the designated reorder point**, compared to an average of **16.3% across all products.**  
-This product is sourced from three suppliers (See bar chart):   
-•	**AsiaPlast**: 18.3% stockouts.  
-•	**BarnWare**: 16.4% stockouts (The average across all products).  
-•	**EuroMat**: 17.7% stockouts.  
-The line graph showing the stockout performance of **AsiaPlast and Euromat** over six months. The highest percentage of stockouts happened in March for both suppliers **20% and 28.6%** for **AsiaPlast and Euromat respectively**. **EuroMat** consistently **had higher stockouts** than **AsiaPlast** across most months, though both suppliers dropped back closer to the **average after March**. Notably, **AsiaPlast** maintained a lower overall stockout rate across the six months, indicating more stable performance.
-
-<img width="937" height="529" alt="Screenshot 2025-09-20 at 20 19 02" src="https://github.com/user-attachments/assets/775d38c2-aad5-49cc-bee0-a40f6fd70c30" />  
+#### --- Lead Times 
  
   
 
