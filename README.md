@@ -31,7 +31,8 @@ The database structure as seen below consist of five tables: Inventory, products
 
 All the charts that convey all this information can be found [here](Images).  
 
-<img width="1661" height="920" alt="Screenshot 2025-10-07 at 18 06 27" src="https://github.com/user-attachments/assets/1f974aaf-8849-43bb-8ac1-c600b5f8e16c" />  
+<img width="1317" height="736" alt="Screenshot 2025-10-08 at 15 38 04" src="https://github.com/user-attachments/assets/07fc2047-6f62-4452-9abe-2e4adc4161c7" />
+
 
 #### Stock Levels & Reorder Points 
 
