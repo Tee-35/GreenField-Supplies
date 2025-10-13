@@ -1,4 +1,6 @@
-## Project Background
+## Project Background  
+
+***Year‑in‑Review: Shipment Financials Apr 2024‑Mar 2025***  
 
 GreenField Supplies is a wholesaler specialising in buying and selling outdoor products for equestrian, farming, and general outdoor purposes. Over the past year, the company has experienced fluctuating shipping costs, lead times, and stock performance, and in an effort to better understand customer demand and predict future trends, they commissioned a review of overall operational performance.
 
