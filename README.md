@@ -31,14 +31,7 @@ The database structure as seen below consist of five tables: Inventory, products
 
 **GreenField Supplies** The dashboard provides an overview of supplier performance, delivery reliability, and inventory status. Average lead times range from **7 to 27 days**, with **EuroMat** performing best. UKTools and **AsiaPlast showed longer delays, suggesting transport inefficiencies. On-time, in-full **(OTIF)** delivery rates average around **72–76%**, indicating moderate reliability but room for improvement. Around **22% of shipments are delayed**, typically by **1–2 days**, while shipment costs remain stable at roughly **£46K–£47K per shipment** across suppliers. A total of **9,501 shipments cost £439.89 million** overall. Additionally, five products stock level fell below their reorder point for a total of seven times. that happened to the Manure Scoops on three seperate occasions, signaling the need for prompt restocking to avoid stock shortages.
 
-<img width="1317" height="736" alt="Screenshot 2025-10-08 at 15 38 04" src="https://github.com/user-attachments/assets/07fc2047-6f62-4452-9abe-2e4adc4161c7" />
-
-
-All the charts that convey all this information can be found [here](Images).  
-
-#### --- Lead Times 
- 
-  
+<img width="1317" height="736" alt="Screenshot 2025-10-08 at 15 38 04" src="https://github.com/user-attachments/assets/07fc2047-6f62-4452-9abe-2e4adc4161c7" />  
 
 ## Recommendations 
 
