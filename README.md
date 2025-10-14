@@ -29,9 +29,16 @@ The database structure as seen below consist of five tables: Inventory, products
 
 #### Overview of Findings 
 
-**GreenField Supplies** The dashboard provides an overview of supplier performance, delivery reliability, and inventory status. Average lead times range from **7 to 27 days**, with **EuroMat** performing best. UKTools and **AsiaPlast showed longer delays, suggesting transport inefficiencies. On-time, in-full **(OTIF)** delivery rates average around **72–76%**, indicating moderate reliability but room for improvement. Around **22% of shipments are delayed**, typically by **1–2 days**, while shipment costs remain stable at roughly **£46K–£47K per shipment** across suppliers. A total of **9,501 shipments cost £439.89 million** overall. Additionally, five products stock level fell below their reorder point for a total of seven times. that happened to the Manure Scoops on three seperate occasions, signaling the need for prompt restocking to avoid stock shortages.
+**GreenField Supplies** The dashboard provides an overview of supplier performance, delivery reliability, and inventory status. Average lead times range from **7 to 27 days**, with **EuroMat** performing best. UKTools and **AsiaPlast showed longer delays**, suggesting transport inefficiencies. On-time, in-full **(OTIF)** delivery rates average around **72–76%**, indicating moderate reliability but room for improvement. Around **23% of shipments are delayed**, typically by **1–2 days**, while shipment costs remain stable at roughly **£45K–£47K per shipment** across suppliers. A total of **9,501 shipments cost £440 million** overall. Additionally, five products stock level fell below their reorder point for a total of seven times. that happened to the Manure Scoops on three seperate occasions, signaling the need for prompt restocking to avoid stock shortages.  
 
-<img width="1317" height="736" alt="Screenshot 2025-10-08 at 15 38 04" src="https://github.com/user-attachments/assets/07fc2047-6f62-4452-9abe-2e4adc4161c7" />  
+<img width="1055" height="594" alt="Screenshot 2025-10-14 at 14 47 14" src="https://github.com/user-attachments/assets/9eda8c98-4d87-404c-8e7e-32aaa73f3f76" />
+
+
+#### Product Focus:AsiaPlast  
+
+The dashboard highlights AsiaPlast’s shipment performance, cost trends, and delivery reliability. Out of **1,918 total shipments worth £90M**, **23%** experienced delays—mostly short-term of **1–2 days**, indicating minor but frequent disruptions. **OTIF** (On-Time, In-Full) delivery rates range from **70% to 78%** across product lines, with **Storage Bins** and **Feed Storage** performing best, while **Water Troughs** and **Buckets** show the highest delays. Monthly shipment costs remained steady between **£13.7M and £16M**, suggesting stable operations despite delivery inconsistencies. Overall, **AsiaPlast** demonstrates strong shipment volume but needs targeted process improvements to enhance reliability and reduce late deliveries.
+
+<img width="1058" height="578" alt="Screenshot 2025-10-14 at 14 46 59" src="https://github.com/user-attachments/assets/f7a52e3b-c297-45a6-882a-ea0afbdf3d13" />  
 
 ## Recommendations 
 
